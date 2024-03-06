@@ -17,8 +17,10 @@ This project contains 1 IPython Notebook file (Music_Genre_AI_Classification.ipy
 The IPython Notebook file contains all the analysis, matrix, and plots. While the CSV file is the dataset obtained from the GTZAN Dataset (This project only uses the 3 seconds features dataset)
 
 ## Confusion Matrix Preview
+![Confusion Matrix](https://github.com/Arcaninar/Music_Genre_AI_Classification/assets/102903680/6dd1a442-3960-4c50-9fcd-5b59bcd30ccd)
 
 ## Accuracy Plot Preview
+![Accuracy Plot](https://github.com/Arcaninar/Music_Genre_AI_Classification/assets/102903680/438b0daa-7e10-4186-bda5-9a1c05a340f9)
 
 ## How to run this project
 1. Clone this project
